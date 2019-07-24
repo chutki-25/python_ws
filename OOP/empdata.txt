@@ -1,0 +1,10 @@
+1,Shri,MTech,80000,CSE
+2,Shruthi,BTech,75000,ISE
+3,Suma,Phd,80000,ISE
+4,Sannidhi,MTech,78000,CSE
+5,Neha,Phd,80000,ECE
+6,Sudhanva,BTech,95000,ECE
+7,Madhusha,MTech,80000,CSE
+8,Raman,Phd,65000,ISE
+9,Sudha,MTech,75000,ECE
+10,Radha,BTech,97000,ISE
